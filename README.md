@@ -1,2 +1,2 @@
-# Caesar Cipher
-An encryption-decryption application using Java.
+# Caesar-Cipher
+It is an encryption decryption application using Java.
