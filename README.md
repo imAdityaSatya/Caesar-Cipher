@@ -1,2 +1,2 @@
 # Caesar-Cipher
-It is an encoder decoder application using Java.
+It is a simple encoder decoder application using Java.
