@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 class CaesarCipher {
     public static String encrypt(String plainText, int key) {
