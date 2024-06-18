@@ -1,3 +1,5 @@
+// CaesarCipher: a basic encoding/decoding cryptography tool based on Caesar Cipher algorithm
+
 import java.util.Scanner;
 
 public class CaesarCipher2 {
