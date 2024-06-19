@@ -1,4 +1,4 @@
-// CaesarCipher: a basic encoding/decoding cryptography tool based on Caesar Cipher algorithm
+// CaesarCipher: a basic encoding/decoding cryptography tool based on the famous Caesar Cipher algorithm
 
 import java.util.Scanner;
 
